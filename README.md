@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LyNguyen-git
-- 👀 I’m interested in smart, creative things, swimming, cooking ...
+- 👀 I’m interested in creative things, swimming, cooking ...
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ly.nguyenthihoai@gmail.com
 
