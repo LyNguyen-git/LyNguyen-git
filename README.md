@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LyNguyen-git
+- 👋 Hi, I’m @LyNguyen
 - 👀 I’m interested in creative things, swimming, cooking ...
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me ly.nguyenthihoai@gmail.com
