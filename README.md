@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LyNguyen
-- 👀 I’m interested in creative things, swimming, cooking, data science...
+- 👀 I’m interested in data science.
 - 📫 How to reach me ly.nguyenthihoai@gmail.com
 
 <!---
